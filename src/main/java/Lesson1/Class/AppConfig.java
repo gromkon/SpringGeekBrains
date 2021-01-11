@@ -1,11 +1,11 @@
-package Lesson;
+package Lesson1.Class;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan({"Lesson1.Lesson"})
+@ComponentScan({"Lesson1.Class"})
 public class AppConfig {
 
     /*

@@ -1,4 +1,4 @@
-package Lesson;
+package Lesson1.Class;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

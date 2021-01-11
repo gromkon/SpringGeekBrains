@@ -1,4 +1,4 @@
-package Lesson;
+package Lesson1.Class;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
